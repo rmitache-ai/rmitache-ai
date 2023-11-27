@@ -1,36 +1,33 @@
 <p align="center">
-  <img src="https://link.to/your/profile/image.png" alt="Profile Banner">
+  <img src="https://i.ibb.co/Fk1bjZ5/38580b22-aa74-4acf-bc33-af122750396f-1.jpg" alt="Profile Banner">
 </p>
 
 # Soulful Coder
 
-Greetings, fellow Undead! 🌑 I am [Your Name], a relentless code seeker wandering through the treacherous lands of bytes and bugs. In this desolate realm, only the bravest dare to face the challenges of coding.
+Greetings, fellow Undead! 🌑 I am Ionut Mitache, a relentless code seeker wandering through the treacherous lands of bytes and bugs. In this desolate realm, only the bravest dare to face the challenges of coding.
 
 ## 🗡️ About Me
 
 - **Class**: Software Sorcerer
-- **Level**: [Your Level]
-- **Humanity**: [Your Humanity]
+- **Level**: 3
+- **Humanity**: 1
 - **Current Ember Status**: Kindled 🔥
 
 ## 🔥 Current Quests
 
-- **Defeat the Buglord**: Conquer the elusive bugs that haunt the realms of my code.
-- **Forge the Ultimate Framework**: Craft a framework as enduring as the legendary armor of Havel the Rock.
-- **Seek the Lost Documentation**: Uncover the ancient scrolls of forgotten documentation to enhance my spells.
+- **Re-create the Bash**: Embark on the epic journey of re-creating the legendary Bash, forging a command-line masterpiece.
 
 ## ⚔️ Skills
 
-- **Sorcery**: Master of spells, from JavaScript incantations to Python enchantments.
-- **Agility**: Nimble navigation through the twisting corridors of complex code.
-- **Endurance**: Stamina for those marathon coding sessions, reminiscent of the Iron Golem's unyielding strength.
-- **Resilience**: Rising from the ashes of failed deployments like the legendary Phoenix.
+- **Sorcery in C**: Unleashing the arcane power of C, weaving elegant spells that resonate through the digital realms.
+- **Agility of a Code Ninja**: Navigating through the complexities of algorithms and structures with the grace of a seasoned ninja.
+- **Endurance for Marathon Code Duels**: Channeling the stamina to engage in prolonged coding battles, reminiscent of an Iron Golem's unyielding strength.
+- **Resilience in the Face of Compile Storms**: Rising unscathed from the tempests of compiler errors, akin to the legendary Phoenix.
 
 ## 🛡️ Achievements
 
-- **Dark Lord Slayer**: Successfully battled and conquered the most fearsome Dark Lords of Code.
-- **Pixel Artisan**: Created pixel-perfect UIs with the precision of a crystal lancer.
-- **Sunbro**: Helped fellow coders in their darkest hours, earning the title of a trusted Sunbro.
+- **Push_Swap Alchemist**: Mastered the arcane art of sorting with the Push_Swap algorithm, orchestrating order from chaos.
+- **ft_printf Architect**: Rewrote the legendary `ft_printf`, sculpting it into a masterpiece of code elegance.
 
 ## 🌌 Dark Souls Disclaimer
 
