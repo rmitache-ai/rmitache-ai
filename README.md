@@ -27,7 +27,7 @@ Greetings, fellow Undead! 🌑 I am Ionut Mitache, a relentless code seeker wand
 ## 🛡️ Achievements
 
 - **Push_Swap Alchemist**: Mastered the arcane art of sorting with the Push_Swap algorithm, orchestrating order from chaos.
-- **ft_printf Architect**: Rewrote the legendary `ft_printf`, sculpting it into a masterpiece of code elegance.
+- **ft_printf Architect**: Rewrote the legendary `printf`, sculpting it into a masterpiece of code elegance.
 
 ## 🌌 Dark Souls Disclaimer
 
