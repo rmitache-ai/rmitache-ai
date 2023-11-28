@@ -28,6 +28,7 @@ Greetings, fellow Undead! 🌑 I am Ionut Mitache, a relentless code seeker wand
 
 - **Push_Swap Alchemist**: Mastered the arcane art of sorting with the Push_Swap algorithm, orchestrating order from chaos.
 - **ft_printf Architect**: Rewrote the legendary `printf`, sculpting it into a masterpiece of code elegance.
+- **Dining Philosopher Maestro**: Navigated the intricate dance of the Dining Philosophers, finding harmony in the shared feast of concurrent programming.
 
 ## 🌌 Dark Souls Disclaimer
 
