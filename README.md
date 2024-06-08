@@ -2,7 +2,7 @@
 
 #### A Computer Science student by day at 42Heilbronn ☼ and a Web Designer by night ☾\
 
-- ⚙️ I use daily: `.cpp`,  `.c`, and `.fig` 
+- ⚙️ I use daily: `.cpp`,  `.c`, and `.js` 
 - 💬 `ping` me about **design** && **development**
 
 
