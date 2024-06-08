@@ -16,7 +16,7 @@
 ### Interested in:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,angular,electron,c#" />
+    <img src="https://skillicons.dev/icons?i=typescript,angular,electron,cs" />
   </a>
 </p>
 
