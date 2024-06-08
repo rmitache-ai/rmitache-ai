@@ -5,9 +5,9 @@
 - ⚙️ I use daily: `.cpp`,  `.c` && `.fig` 
 - 💬 `ping` me about **design** && **development**
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,react,c,vscode, javascript" />
+    <img src="https://skillicons.dev/icons?i=c, cpp, git, react,javascript, vscode, figma" />
   </a>
 </p>
 
